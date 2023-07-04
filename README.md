@@ -15,5 +15,7 @@ t/T：控制太阳系各行星公转变慢/快
 x/X：控制太阳系自动运转/停止运转(但可以通过按p或者q控制自转或者公转)
 
 实现效果：
+
 ![image](https://github.com/Chenhaja/OpenGL_solar_system/assets/138541557/fff01fbc-0386-488e-9517-e32ee1c933eb)
+
 注意：在运行前，需要改变纹理贴图.bmp的地址
